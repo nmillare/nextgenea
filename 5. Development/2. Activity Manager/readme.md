@@ -1,1 +1,1 @@
-#Spec for Activity Manager
+# Spec for Activity Manager
