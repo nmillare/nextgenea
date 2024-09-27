@@ -13,6 +13,8 @@ The Repo will have the overall Platform concept.
 
 This Repo is organized in the following way:
 1. [Overview](https://github.com/I304296/nextgenea/blob/main/1.Overview/readme.md)
-2. 
+2. [Architecture](https://github.com/I304296/nextgenea/blob/main/2.%20Architecture/readme.md)
+3. [Security]()
+4. [Development]()
 
 
