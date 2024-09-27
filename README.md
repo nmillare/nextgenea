@@ -11,4 +11,5 @@ The Repo will have the overall Platform concept. The Platform will comprise of m
 * Engagement Management
 * Knowledgebase
 * Analytics
-/nEach realm will have set of apps fulfilling certain functionality. There will be dedicated sub folders for each apps where we intend to provide inputs on the functional spec, design, tech archtectire artefacts as well as codebase and test results.
+
+Each realm will have set of apps fulfilling certain functionality. There will be dedicated sub folders for each apps where we intend to provide inputs on the functional spec, design, tech archtectire artefacts as well as codebase and test results.
