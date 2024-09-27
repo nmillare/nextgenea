@@ -6,6 +6,9 @@ The platform is purposed for:
 * Provie seamless connectivity to Customer specific EA tool-chains
 * Give nuanced contextualized contents in terms of Knowledgebase, Industry Reference, Service Recommendations
 
+The following diagram is showing the primary value propositions of the Platform.
+![Platform Value Proposition](http://url/to/img.png)
+
 The Repo will have the overall Platform concept. The Platform will comprise of many apps in the realm of 4 segments:
 * Augmented EA
 * Engagement Management
