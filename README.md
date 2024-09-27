@@ -12,7 +12,7 @@ The following diagram is showing the primary value propositions of the Platform.
 The Repo will have the overall Platform concept. 
 
 This Repo is organized in the following way:
-1. Overview(https://github.com/I304296/nextgenea/blob/main/1.Overview/readme.md)
+1. [Overview](https://github.com/I304296/nextgenea/blob/main/1.Overview/readme.md)
 2. 
 
 
