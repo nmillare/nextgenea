@@ -10,5 +10,5 @@ Each realm will have set of apps fulfilling certain functionality. There will be
 
 Overall the Platform launchpad will be having the above four sections and corresponding apps will be added to the respective sections.
 The following picture shows the groupings of the apps.
-(https://github.com/I304296/nextgenea/blob/main/images/launchpad.png)
+!(https://github.com/I304296/nextgenea/blob/main/images/launchpad.png)
 
