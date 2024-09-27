@@ -16,6 +16,8 @@ This Repo is organized in the following way:
 2. [Architecture](https://github.com/I304296/nextgenea/blob/main/2.%20Architecture/readme.md)
 3. [Infrastructure](https://github.com/I304296/nextgenea/blob/main/3.%20Infrastructure%20Setup/readme.md)
 4. [Security](https://github.com/I304296/nextgenea/blob/main/4.%20Security/readme.md)
-5. [Development]()
+5. [Development](https://github.com/I304296/nextgenea/tree/main/5.%20Development)
+
+   All detailed functional specifications are arranged under Development folder in the corresponding app folders.
 
 
