@@ -1,1 +1,1 @@
-Keep images here
+Keep images here.
