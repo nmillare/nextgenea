@@ -12,3 +12,8 @@ Overall the Platform launchpad will be having the above four sections and corres
 The following picture shows the groupings of the apps.
 ![Launchpad](https://github.com/I304296/nextgenea/blob/main/images/launchpad.png)
 
+We are planning to release the platform capabilties in 3 phases.
+* Phase 1: Essential Capabilities including Engagement Management and Key Augmented EA Tools (Blue)
+* Phase 2: Add on Capabilities to Augmented EA Tools (Magenta)
+* Phase 3: Analytics and Joule (Cyan)
+![Resease Scope](https://github.com/I304296/nextgenea/blob/main/images/releasescope.png)
