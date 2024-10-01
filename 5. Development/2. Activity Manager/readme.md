@@ -1,3 +1,5 @@
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
+
 1.	EA to review info in the Engagement Planner/NextGen EA Platform regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA Platform.
 
 
