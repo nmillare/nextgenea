@@ -55,7 +55,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 15.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform must handle the billable activities (SO or IO) for the EA.
 
     
-16.	Output of the PE service Delivery and Next Steps in regards Business Transformation must be documented and follow up by the EA in the NextGen EA Platform. NextGen EA Platform supposed to provide Activities and Service SCHEDULING VIEW so the EA can document and follow up activities accordingly
+16.	Output of the PE service Delivery and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the NextGen EA Platform. NextGen EA Platform supposed to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
 
 
 
