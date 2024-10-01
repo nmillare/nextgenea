@@ -1,5 +1,16 @@
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
 
+
+Welcome to the Engagement Planner/NextGen EA Platform
+
+The ‘Engagement Planner/NexGen EA Platform’ offers a simplified and logical approach to guidance EA’s to engage on Value Added Activities while working with assigned customers in the Regions. 
+
+The ‘Engagement Planner’ has a modularization approach to provide Activity Sections based on the EA activity needs to support customers Business Transformation requirements. 
+
+Inside of the Activity Sections, there are Mandatory Activities that the EA must engage to ensure minimum quality deliverables. Other Activities will be optional to add additional value to the Business Transformation.
+
+
+
 1.	EA to review info in the Engagement Planner/NextGen EA Platform regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA Platform.
 
 
