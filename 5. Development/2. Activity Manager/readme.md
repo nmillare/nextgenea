@@ -25,3 +25,37 @@
     o	Target Business Outcomes and Winning Plan Strategies (specific to the Industry)
 
 We introduce a Link to the documentation that can help the EA to support these activities – FIR workstream working on the content – Additional discussion where to allocate the content, either in LeanIX as a Diagram, or attached doc
+
+
+6.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
+
+	
+7.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
+
+   
+8.	Creating the ‘Business Strategy Report’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+
+   
+9.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
+
+	
+10.	Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes
+
+	
+11.	Creating the ‘Business Capability Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+
+12.	Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX -> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
+
+    
+13.	Creating the ‘As-is’ and ‘To-be’ Architecture Reports-> The Platform can redirect the EA to the Factsheets required to build this report
+
+14.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
+
+    
+15.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform must handle the billable activities (SO or IO) for the EA.
+
+    
+16.	Output of the PE service Delivery and Next Steps in regards Business Transformation must be documented and follow up by the EA in the NextGen EA Platform. NextGen EA Platform supposed to provide Activities and Service SCHEDULING VIEW so the EA can document and follow up activities accordingly
+
+
+
