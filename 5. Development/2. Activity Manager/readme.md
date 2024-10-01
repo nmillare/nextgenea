@@ -3,6 +3,7 @@
 
 Welcome to the Engagement Planner/NextGen EA Platform
 
+
 The ‘Engagement Planner/NexGen EA Platform’ offers a simplified and logical approach to guidance EA’s to engage on Value Added Activities while working with assigned customers in the Regions. 
 
 The ‘Engagement Planner’ has a modularization approach to provide Activity Sections based on the EA activity needs to support customers Business Transformation requirements. 
