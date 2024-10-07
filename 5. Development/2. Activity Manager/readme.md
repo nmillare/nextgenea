@@ -13,6 +13,7 @@ Inside of the Activity Sections, there are Mandatory Activities that the EA must
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/TOGAF.png)
 
 
+ACTIVITY SECTION A): Architecture Vision:
 1.	EA to review info in the Engagement Planner/NextGen EA Platform regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA Platform.
 
 
