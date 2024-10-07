@@ -1,7 +1,8 @@
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
 
 
-Welcome to the Engagement Planner/NextGen EA Platform
+[Welcome to the Engagement Planner/NextGen EA Platform](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
+
 
 
 The ‘Engagement Planner/NexGen EA Platform’ offers a simplified and logical approach to guidance EA’s to engage on Value Added Activities while working with assigned customers in the Regions. 
