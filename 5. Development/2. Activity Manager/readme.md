@@ -94,13 +94,13 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/sunshine.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/targetarchitecture.png)   
    
-16.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
+18.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
 
     
-17.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform must handle the billable activities (SO or IO) for the EA.
+19.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform will link to the tool to handle the billable activities (SO or IO) for the EA.
 
     
-18.	Output of the PE service Delivery and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the NextGen EA Platform. NextGen EA Platform supposed to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
+20.	Output of the PE service Delivery and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the NextGen EA Platform. NextGen EA Platform supposed to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
 
 
 
