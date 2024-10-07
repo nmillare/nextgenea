@@ -66,6 +66,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 
 
 ACTIVITY SECTION B): Business Architecture:
+
 12.	[The EA should have enough customer information to build the ‘Organization Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The Platform can redirect the EA to the Factsheets required to build this report
 
 
