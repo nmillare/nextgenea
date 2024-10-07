@@ -87,7 +87,7 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 16.   [Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
 
     
-17.	[Creating the ‘As-is’ and ‘To-be’ Architecture Reports]((https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The Platform can redirect the EA to the Factsheets required to build this report
+17.	[Creating the ‘As-is’ and ‘To-be’ Architecture Reports](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The Platform can redirect the EA to the Factsheets required to build this report
 
 14.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
 
