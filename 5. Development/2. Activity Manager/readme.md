@@ -41,6 +41,7 @@ ACTIVITY SECTION A): Architecture Vision:
     o	Target Business Outcomes and Winning Plan Strategies (specific to the Industry)
 
 We introduce a Link to the documentation that can help the EA to support these activities – FIR workstream working on the content – Additional discussion where to allocate the content, either in LeanIX as a Diagram, or attached doc
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/FIR_1.png)
 
 
 6.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
