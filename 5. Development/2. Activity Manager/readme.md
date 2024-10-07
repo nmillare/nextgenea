@@ -48,18 +48,19 @@ We introduce a Link to the documentation that can help the EA to support these a
 
 
 7.	The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
   
   
 8.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
 
 	
-7.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
+9.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
 
    
-8.	Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
+10.	Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
 
    
-9.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
+11.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
 
 	
 10.	Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes
