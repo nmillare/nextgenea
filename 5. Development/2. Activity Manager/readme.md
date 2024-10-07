@@ -9,7 +9,7 @@ The ‘Engagement Planner/NexGen EA Platform’ offers a simplified and logical 
 The ‘Engagement Planner’ has a modularization approach to provide Activity Sections based on the EA activity needs to support customers Business Transformation requirements. 
 
 Inside of the Activity Sections, there are Mandatory Activities that the EA must engage to ensure minimum quality deliverables. Other Activities will be optional to add additional value to the Business Transformation.
-
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/TOGAF.png)
 
 
 1.	EA to review info in the Engagement Planner/NextGen EA Platform regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA Platform.
