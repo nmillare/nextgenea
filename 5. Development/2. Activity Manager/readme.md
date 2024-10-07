@@ -48,7 +48,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 
 
 7.	The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
-![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
 8.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
