@@ -47,7 +47,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 6.	Questionnaires from the North Start Service must be adjusted by Industry requirements-> HAS TO BE DONE!!!!!! -> FIR -> The Platoform should link to the Questionnaries by Indystry location
 
 
-7.	The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+7.	[The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> The Platform can redirect the EA to the Factsheets required to build this report
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
