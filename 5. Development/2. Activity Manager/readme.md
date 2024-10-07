@@ -77,7 +77,11 @@ ACTIVITY SECTION B): Business Architecture:
 14.	[Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes. Creating the ‘Business Capability Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> The Platform can redirect the EA to the Factsheets required to build this report
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businesscapabilitymap.png)
 
-12.	Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX -> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
+
+15.	At this stage, the EA should be able to create the ‘Business Data Flow Diagram’ on Signavio at Level 4 -> At this point, the FIR workstream is working with the IBU teams to incorporate an overview by Industry
+16.
+17.
+18.	   Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX -> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
 
     
 13.	Creating the ‘As-is’ and ‘To-be’ Architecture Reports-> The Platform can redirect the EA to the Factsheets required to build this report
