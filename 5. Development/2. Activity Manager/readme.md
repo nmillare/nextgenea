@@ -1,7 +1,7 @@
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
 
 
-[Welcome to the Engagement Planner/NextGen EA Platform](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
+Welcome to the Engagement Planner/NextGen EA Platform
 
 
 
