@@ -44,7 +44,13 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/FIR_1.png)
 
 
-6.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
+6.	Questionnaires from the North Start Service must be adjusted by Industry requirements-> HAS TO BE DONE!!!!!! -> FIR -> The Platoform should link to the Questionnaries by Indystry location
+
+
+7.	The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+  
+  
+8.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA Platform) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
 
 	
 7.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
