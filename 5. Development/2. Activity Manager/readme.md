@@ -71,14 +71,10 @@ ACTIVITY SECTION B): Business Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/organizationmap.png)
 
 
-
-14.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
-
-	
-10.	Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes
+13.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
 
 	
-11.	Creating the ‘Business Capability Map’ in LeanIX -> The Platform can redirect the EA to the Factsheets required to build this report
+14.	[Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes. Creating the ‘Business Capability Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> The Platform can redirect the EA to the Factsheets required to build this report
 
 12.	Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX -> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
 
