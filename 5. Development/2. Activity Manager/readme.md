@@ -79,7 +79,7 @@ ACTIVITY SECTION B): Business Architecture:
 
 
 15.	At this stage, the EA should be able to create the ‘Business Data Flow Diagram’ on Signavio at Level 4 -> At this point, the FIR workstream is working with the IBU teams to incorporate an overview by Industry
-16.
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/signavio_1.png)
 17.
 18.	   Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX -> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. The platform can link the EA to the help area in LeanIX explaining these steps.
 
