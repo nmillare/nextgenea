@@ -91,7 +91,8 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_1.png)	
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_2.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_3.png)	
-   
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/sunshine.png)
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/targetarchitecture.png)   
    
 16.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
 
