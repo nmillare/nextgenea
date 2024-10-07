@@ -61,7 +61,11 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-12.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
+12.11.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> Check if generic exists already as Diagram or Report in LeanIX
+
+
+
+13.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
 
 	
 10.	Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes
