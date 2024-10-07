@@ -61,7 +61,8 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-12.11.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> Check if generic exists already as Diagram or Report in LeanIX
+11.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> Check if generic exists already as Diagram or Report in LeanIX
+![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/modelcanvas.png)
 
 
 
