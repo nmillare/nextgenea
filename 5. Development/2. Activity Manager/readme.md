@@ -1,7 +1,7 @@
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
 
 
-Welcome to the Engagement Planner/NextGen EA 
+Welcome to the Engagement Planner/BRIDGE EA 
 
 
 
@@ -14,7 +14,7 @@ Inside of the Activity Sections, there are Mandatory Activities that the EA must
 
 
 ACTIVITY SECTION A): Architecture Vision:
-1.	EA to review info in the Engagement Planner/NextGen EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA.
+1.	EA to review info in the Engagement Planner/BRIDGE EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA.
 
 
 2.	SAP Rating should be FLAG for this customer engagement by the EA based on the following categories (this is a dynamic rating):
@@ -51,7 +51,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
-8.	The EA using the ‘Strategy Recommender’ (tool available in the NextGen EA) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
+8.	The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
 
 	
 9.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
