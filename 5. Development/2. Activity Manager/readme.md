@@ -91,13 +91,20 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/sunshine.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/targetarchitecture.png)   
    
-18.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services. [Link to the PE Business Scenarios](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/search/?q=%3Arelevance%3AserviceObject%3ABusiness+Scenario&text=)
+18.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> The NextGen EA Platform can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
+    	
+    o	[Link to the PE Business Scenarios](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/search/?q=%3Arelevance%3AserviceObject%3ABusiness+Scenario&text=)
+
+    o	[Link to the PE NorhtMost Critical Concerns for the Stakeholder (specific to the Industry)
+
+    o	Target Business Outcomes and Winning Plan Strategies (specific to the Industry)
+			
 
     
-19.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform will link to the tool to handle the billable activities (SO or IO) for the EA.
+21.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> The NextGen EA Platform will link to the tool to handle the billable activities (SO or IO) for the EA.
 
     
-20.	Output of the PE service Delivery and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the NextGen EA. NextGen EA supposed to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
+22.	Output of the PE service Delivery and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the NextGen EA. NextGen EA supposed to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
 
 
 
