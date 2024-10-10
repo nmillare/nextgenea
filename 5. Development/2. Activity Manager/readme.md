@@ -1,6 +1,3 @@
-![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/ActivityManager.png)
-
-
 Welcome to the Engagement Planner/BRIDGE EA 
 
 
