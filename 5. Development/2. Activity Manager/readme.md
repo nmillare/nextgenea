@@ -91,7 +91,6 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/sunshine.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/targetarchitecture.png)   
 
-
 ACTIVITY SECTION E): Opportunities & Solutions:
 
 
