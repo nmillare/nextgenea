@@ -110,7 +110,7 @@ ACTIVITY SECTION E): Opportunities & Solutions:
 21.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> BRIDGE EA will link to the tool to handle the billable activities (SO or IO) for the EA.
 
     
-22.	Output of the PE service Deliveries and Next Steps, in regards Business Transformation, must be documented/created and follow up by the EA in the BRIDGE EA. The goal is to provide Activities and Services SCHEDULING VIEW so the EA can document and follow up activities accordingly
+22.	Output of the PE service Deliveries and Next Steps, in regards Business Transformation, should be documented and follow up by the EA in the BRIDGE EA. The EA should be able to incorporate additional activities into the BRIDGE EA workspace, for the customer in question, based on the output of the PE servicies recommendations and next steps.
 
 
 
