@@ -68,7 +68,7 @@ ACTIVITY SECTION B): Business Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/organizationmap.png)
 
 
-13.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> The platform will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
+13.	Discussing with Relevant Stakeholder Core Business Process Steps (Level 3 or 4) based on Industry and Enterprise Domain -> BRIDGE EA will Link to the documentation from the FIR workstream with the relevant info by Industry and Enterprise Domain
 
 	
 14.	[Identification of Core Business Capabilities for the ‘As-Is’ and ‘To-be’ landscapes. Creating the ‘Business Capability Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
