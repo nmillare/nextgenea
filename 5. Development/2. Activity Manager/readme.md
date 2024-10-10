@@ -96,7 +96,9 @@ ACTIVITY SECTION C): Applications & Data Architecture:
     o	[Link to the PE Business Scenarios](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/search/?q=%3Arelevance%3AserviceObject%3ABusiness+Scenario&text=)
 
     o	[Link to the PE Architecture services -> Drive Enterprise Transformation with North Star Services](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/c/PE-Business-Scenario%3A-Drive-Enterprise-Transformation-with-North-Star-Services/p/BS000020)
-   	
+
+    o	[Link to the PE Clean Core services ->  Accelerate Your Cloud Transformation with a Clean Core](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/c/PE-Business-Scenario%3A-Accelerate-Your-Cloud-Transformation-with-a-Clean-Core/p/BS000016)
+   		
     o	[Link to the PE Analytical services ->  Drive Your Business Transformation with Data and Analytics](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/c/PE-Business-Scenario%3A-Drive-Your-Business-Transformation-with-Data-and-Analytics/p/BS000006)
  
     o	[Link to the PE AI services ->  Empower Your Business with AI](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/c/PE-Business-Scenario-%3A-Empower-Your-Business-with-AI/p/BS000023)
