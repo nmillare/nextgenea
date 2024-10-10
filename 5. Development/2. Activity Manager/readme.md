@@ -90,7 +90,11 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_3.png)	
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/sunshine.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/targetarchitecture.png)   
-   
+
+
+ACTIVITY SECTION E): Opportunities & Solutions:
+
+
 18.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> BRIDGE EA can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
     	
     o	[Link to the PE Business Scenarios](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/search/?q=%3Arelevance%3AserviceObject%3ABusiness+Scenario&text=)
