@@ -12,7 +12,7 @@ Inside of the Activity Sections, there are Mandatory Activities that the EA must
 
 ACTIVITY SECTION A): Architecture Vision:
 
-1.	EA to review info in the Engagement Planner/BRIDGE EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the NextGen EA.
+1.	EA to review info in the Engagement Planner/BRIDGE EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the BRIDGE EA.
 
 
 2.	SAP Rating should be FLAG for this customer engagement by the EA based on the following categories (this is a dynamic rating):
