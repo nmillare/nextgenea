@@ -96,10 +96,11 @@ ACTIVITY SECTION B): Business Architecture:
 
 ACTIVITY SECTION C): Applications & Data Architecture:
 
-14.   [Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. BRIDGE EA can link the EA to the help area in LeanIX explaining these steps.
+
+14.	Objective:  [Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) ->  The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. BRIDGE EA can link the EA to the help area in LeanIX explaining these steps.
 
     
-17.	[Creating the ‘As-is’ and ‘To-be’ Architecture Reports](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> BRIDGE EA can redirect the EA to the Factsheets required to build this report
+	Artifact:	[Creating the ‘As-is’ and ‘To-be’ Architecture Reports](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> BRIDGE EA can redirect the EA to the Factsheets required to build this report
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_1.png)	
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_2.png)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/architecturereport_3.png)	
@@ -109,7 +110,7 @@ ACTIVITY SECTION C): Applications & Data Architecture:
 ACTIVITY SECTION E): Opportunities & Solutions:
 
 
-18.	If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> BRIDGE EA can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
+15.	Objective: If the customer is Max or Active Attention, the EA can socialize the documentation with the LTQM to identify potential PE services to be position to the customer to support the Business Transformation. -> BRIDGE EA can trigger a request to the LTQM to review the PE Business Scenarios together with the EA to identify optimal PE services for the customer. The EA can negotiate to take some of the roles of the PE services or even Leading some of the Architecture services.
     	
     o	[Link to the PE Business Scenarios](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/search/?q=%3Arelevance%3AserviceObject%3ABusiness+Scenario&text=)
 
@@ -122,10 +123,10 @@ ACTIVITY SECTION E): Opportunities & Solutions:
     o	[Link to the PE AI services ->  Empower Your Business with AI](https://servicescatalog.cvdp3eof-dbsservic1-p1-public.model-t.cc.commerce.ondemand.com/c/PE-Business-Scenario-%3A-Empower-Your-Business-with-AI/p/BS000023)
     			
     
-21.	The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> BRIDGE EA will link to the tool to handle the billable activities (SO or IO) for the EA.
+16.	Objective: The EA engages on the PE service delivery in cooperation with the LTQM and the CoE organization. -> BRIDGE EA will link to the tool to handle the billable activities (SO or IO) for the EA.
 
     
-22.	Output of the PE service Deliveries and Next Steps, in regards Business Transformation, should be documented and follow up by the EA in the BRIDGE EA. The EA should be able to incorporate additional activities into the BRIDGE EA workspace, for the customer in question, based on the output of the PE servicies recommendations and next steps.
+17.	Objective: Output of the PE service Deliveries and Next Steps, in regards Business Transformation, should be documented and follow up by the EA in the BRIDGE EA. The EA should be able to incorporate additional activities into the BRIDGE EA workspace, for the customer in question, based on the output of the PE servicies recommendations and next steps.
 
 
 
