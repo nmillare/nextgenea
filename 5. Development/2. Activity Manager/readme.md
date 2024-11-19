@@ -42,7 +42,7 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/FIR_1.png)
 
 
-6.	Objective:  Mapping the customer relevant stakeholders allows the EA to improve stakeholder engagement and focus on relationship-building with important partners within the customer's organization.
+6.	Objective:  Mapping the customer relevant stakeholders allows the EA to improve stakeholder engagement and focus on relationship-building with important partners within the customer's organization. 
 
    	Artifact: [The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
 
@@ -59,9 +59,9 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-9.	Objective: The EA should have enough documentation to provide an overview to help identify requirement by mapping out product’s key actors, activities and resources, the value proposition for target customers, customer relationships, channels involved and financial matters.
-
-	Artifact: Creating the ‘Business Canvas’ in Signavio -> [The Platform can redirect the EA to the Diagram section in Signavio](https://editor.signavio.com/p/hub/model/b866a249d7f7478aaa245266ddb2547d)
+9.	Objective: The EA should have enough documentation to provide an overview to better understand how the customer handles its key determinants of revenue and cost, the value proposition it uses to go to market, the customers it serves, and the resources it needs to execute.
+  
+	Artifact: Creating the ‘Business Model Canvas’ in Signavio -> [The Platform can redirect the EA to the Diagram section in Signavio](https://editor.signavio.com/p/hub/model/b866a249d7f7478aaa245266ddb2547d)
    
     
     
