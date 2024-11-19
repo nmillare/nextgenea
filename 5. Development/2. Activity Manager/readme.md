@@ -42,10 +42,9 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/FIR_1.png)
 
 
-6.	Objective: Questionnaires from the North Start Service must be adjusted by Industry requirements-> HAS TO BE DONE!!!!!! -> FIR -> BRIDGE EA should link to the Questionnaries by Industry.
+6.	Objective:  Mapping the customer relevant stakeholders allows the EA to improve stakeholder engagement and focus on relationship-building with important partners within the customer's organization.
 
-
-7.	Objective: [The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
+   	Artifact: [The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
 
   	Artifact:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
