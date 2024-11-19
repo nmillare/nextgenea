@@ -88,7 +88,7 @@ ACTIVITY SECTION B): Business Architecture:
 13.	Objective: The EA wants to visualize and better undertand the customer business processes to discover potential problems, improve efficiencies and develop better processes. The 'Business Data Flow Diagram' should acomplish these functions for the Customer Core Business Processes.
 
     
-   Artifact:  [At this stage, the EA should be able to create the ‘Business Data Flow Diagram’ on Signavio at Level 4](https://app-us.signavio.com/p/login) -> The FIR workstream is working with the IBU teams to incorporate an overview by Industry
+ 	Artifact:  [At this stage, the EA should be able to create the ‘Business Data Flow Diagram’ on Signavio at Level 4](https://app-us.signavio.com/p/login) -> The FIR workstream is working with the IBU teams to incorporate an overview by Industry
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/signavio_1.png)
 
 
@@ -96,7 +96,7 @@ ACTIVITY SECTION B): Business Architecture:
 
 ACTIVITY SECTION C): Applications & Data Architecture:
 
-16.   [Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. BRIDGE EA can link the EA to the help area in LeanIX explaining these steps.
+14.   [Identifying Solutions for the ‘As-IS’ and ‘To-Be’ Architecture in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> The EA supposed to have the know-how to navigate on LeanIX to access to the Reference Catalog to Identify the Industry and relevant Business Capabilities to Import the Solutioning components supporting those capabilities. BRIDGE EA can link the EA to the help area in LeanIX explaining these steps.
 
     
 17.	[Creating the ‘As-is’ and ‘To-be’ Architecture Reports](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> BRIDGE EA can redirect the EA to the Factsheets required to build this report
