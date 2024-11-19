@@ -12,10 +12,10 @@ Inside of the Activity Sections, there are Mandatory Activities that the EA must
 
 ACTIVITY SECTION A): Architecture Vision:
 
-1.	EA to review info in the Engagement Planner/BRIDGE EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the BRIDGE EA.
+1.	Objective: EA to review info in the Engagement Planner/BRIDGE EA regarding Customer and Engagement documentation. If something is incorrect, the EA should be able to modify or Set and ALERT in the BRIDGE EA.
 
 
-2.	SAP Rating should be FLAG for this customer engagement by the EA based on the following categories (this is a dynamic rating):
+2.	Objective: SAP Rating should be FLAG for this customer engagement by the EA based on the following categories (this is a dynamic rating):
 
     o	RED: Customer is Globally escalated. Customer has VERY HIGH sensitivity based on Political reasons…..Others????
 
@@ -24,13 +24,13 @@ ACTIVITY SECTION A): Architecture Vision:
     o	GREEN: EA customer engagement/activities regarding Business Transformation are finalized
 
    
-3.	EA to collect Business Transformation activities/reports/services already occurred with this customer in the past. Contacting/collaborating with SAP internal groups, SAP partners, Customer Business Transformation teams.
+3.	Objective: EA to collect Business Transformation activities/reports/services already occurred with this customer in the past. Contacting/collaborating with SAP internal groups, SAP partners, Customer Business Transformation teams.
    
 
-4.	Identification of Customer Key Stakeholders for Business Transformation by Industry and Enterprise Domain
+4.	Objective: Identification of Customer Key Stakeholders for Business Transformation by Industry and Enterprise Domain
 
    
-5.	Preparing Meetings and relevant discussion points with customer’s Key Stakeholders based on;
+5.	Objective: Preparing Meetings and relevant discussion points with customer’s Key Stakeholders based on;
 	
     o	Key Objective for the Stakeholder (specific to the Industry)
 
@@ -38,28 +38,27 @@ ACTIVITY SECTION A): Architecture Vision:
 
     o	Target Business Outcomes and Winning Plan Strategies (specific to the Industry)
 
-We introduce a Link to the documentation that can help the EA to support these activities – FIR workstream working on the content – Additional discussion where to allocate the content, either in LeanIX as a Diagram, or attached doc
+We introduce a Link to the documentation that can help the EA to support these activities – FIR workstream working on the content – Additional discussion where to allocate the content, either in LeanIX as a Diagram, or attached doc.
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/FIR_1.png)
 
 
-6.	Questionnaires from the North Start Service must be adjusted by Industry requirements-> HAS TO BE DONE!!!!!! -> FIR -> BRIDGE EA should link to the Questionnaries by Industry
+6.	Objective: Questionnaires from the North Start Service must be adjusted by Industry requirements-> HAS TO BE DONE!!!!!! -> FIR -> BRIDGE EA should link to the Questionnaries by Industry.
 
 
-7.	[The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
+7.	Objective: [The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
+   	Artifact:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
-8.	The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to Get points of discussion with the Industry Stakeholders in regards Strategy recommendations
+9.	Objective: The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to get points of discussion with the Industry Stakeholders in regards Strategy recommendations
 
 	
-9.	Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
-
-   
-10.	Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
+10.	Objective: Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
+	Artifact: Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-11.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> [Link to the Diagrams section in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/diagrams/freedraw/e7d093a7-ee35-4754-9fbf-8c6486faeb15?returnUrl=%2Fdiagrams%2Foverview%2Fcategory%2Ffreedraw)
+12.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> [Link to the Diagrams section in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/diagrams/freedraw/e7d093a7-ee35-4754-9fbf-8c6486faeb15?returnUrl=%2Fdiagrams%2Foverview%2Fcategory%2Ffreedraw)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/modelcanvas.png)
 
 
