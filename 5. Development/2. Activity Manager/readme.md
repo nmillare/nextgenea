@@ -46,19 +46,26 @@ We introduce a Link to the documentation that can help the EA to support these a
 
 
 7.	Objective: [The EA should be in the position to create the ‘Stakeholder Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9) -> BRIDGE EA can redirect the EA to the Factsheets required to build this report
-   	Artifact:
+
+  	Artifact:
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
-9.	Objective: The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to get points of discussion with the Industry Stakeholders in regards Strategy recommendations
+8.	Objective: The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to get points of discussion with the Industry Stakeholders in regards Strategy recommendations.
 
 	
-10.	Objective: Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders
-	Artifact: Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
+9.	Objective: Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders.
+	
+ 	Artifact: Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-12.	The EA should create the ‘Business Model Canvas’. This Artifact must be created by Industry to better support the EA’s (FIR identify as GAP) -> [Link to the Diagrams section in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/diagrams/freedraw/e7d093a7-ee35-4754-9fbf-8c6486faeb15?returnUrl=%2Fdiagrams%2Foverview%2Fcategory%2Ffreedraw)
+10.	Objective: The EA should have enough documentation to provide an overview to help identify requirement by mapping out product’s key actors, activities and resources, the value proposition for target customers, customer relationships, channels involved and financial matters.
+
+	Artifact: Creating the ‘Business Canvas’ in Signavio -> [The Platform can redirect the EA to the Diagram section in Signavio](https://editor.signavio.com/p/hub/model/b866a249d7f7478aaa245266ddb2547d)
+   
+    
+    
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/modelcanvas.png)
 
 
