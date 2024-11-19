@@ -50,16 +50,16 @@ We introduce a Link to the documentation that can help the EA to support these a
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/stakeholdermap.png)
   
   
-8.	Objective: The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to get points of discussion with the Industry Stakeholders in regards Strategy recommendations.
+7.	Objective: The EA using the ‘Strategy Recommender’ (tool available in the BRIDGE EA) to get points of discussion with the Industry Stakeholders in regards Strategy recommendations.
 
 	
-9.	Objective: Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders.
+8.	Objective: Identification of Goals, Strategic Priorities supporting those goals and Value Drivers to achieve the Strategic Priorities discussed and agreed with Customer Key Stakeholders.
 	
  	Artifact: Creating the ‘Business Strategy Report’ in LeanIX -> [The Platform can redirect the EA to the Factsheets required to build this report](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/businessstrategyreport.png)
 
    
-10.	Objective: The EA should have enough documentation to provide an overview to help identify requirement by mapping out product’s key actors, activities and resources, the value proposition for target customers, customer relationships, channels involved and financial matters.
+9.	Objective: The EA should have enough documentation to provide an overview to help identify requirement by mapping out product’s key actors, activities and resources, the value proposition for target customers, customer relationships, channels involved and financial matters.
 
 	Artifact: Creating the ‘Business Canvas’ in Signavio -> [The Platform can redirect the EA to the Diagram section in Signavio](https://editor.signavio.com/p/hub/model/b866a249d7f7478aaa245266ddb2547d)
    
@@ -70,7 +70,9 @@ We introduce a Link to the documentation that can help the EA to support these a
 
 ACTIVITY SECTION B): Business Architecture:
 
-12.	[The EA should have enough customer information to build the ‘Organization Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> BRIDGE EA can redirect the EA to the Factsheets required to build this report
+10.	Objective: The EA needs to understand the customer organization to identify and appropriately engage impacted business units affected by the Business Transformation. The organization map is an essential part of a holistic and integrated approach to strategic planning and analysis.
+
+   	Artifact: [The EA should have enough customer information to build the ‘Organization Map’ in LeanIX](https://demo-eu-1.leanix.net/SYMPHONY/dashboard/c7612e76-db4f-4d7d-b253-41040bdaeff9)-> BRIDGE EA can redirect the EA to the Factsheets required to build this report
 ![Activity Manager](https://github.com/I304296/nextgenea/blob/main/images/organizationmap.png)
 
 
